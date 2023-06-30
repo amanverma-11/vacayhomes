@@ -16,7 +16,7 @@ import ClientOnly from './components/ClientOnly';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Airbnb',
+  title: 'VacayHomes',
   description: 'Vacation rental company',
 }
 
